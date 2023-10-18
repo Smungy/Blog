@@ -58,7 +58,7 @@ public class MainBlog {
         ZonedDateTime date = ZonedDateTime.now();
         post.setDate(date);
         post.setDescription("La Inteligencia Artificial (IA) es la combinación de algoritmos planteados con el propósito de crear\n" 
-                + "máquinas que presenten las mismas capacidades que el ser humano. Una tecnología que todavía nos resulta\n"
+                + "máquinas que presenten las mismas capacidades que el ser humano. Una tecnología que todavía nos resulta \n"
                 + " lejana y misteriosa, pero que desde hace unos años está presente en nuestro día a día a todas horas.\n");
         post.setImage("https://www.mundodeportivo.com/urbantecno/hero/2023/03/imagen-creada-por-ia-de-un-robot-con-un-cerebro-digital.jpg?width=1200");
         post.setUser(user2);
